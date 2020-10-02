@@ -4,3 +4,6 @@
 ### Goals
 - Simple, performant model generation
 - Conventioin over configuration
+
+### Instructiions
+Tests are run with pytest.
